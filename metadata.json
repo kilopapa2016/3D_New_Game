@@ -1,0 +1,6 @@
+{
+  "name": "네온 큐브 러너 (Neon Cube Runner)",
+  "description": "Three.js 기반 100% 절차적 생성 3D 네온 사이버펑크 무한 질주 아케이드 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
